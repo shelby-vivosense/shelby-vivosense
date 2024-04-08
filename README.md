@@ -2,7 +2,7 @@
 
 :zap: I'm currently working on developing digital measures<br>
 :eyes: I'm interested in how digital health can promote healthspan<br>
-:bar_chart: I'm always learning new ways to analyze and visualize data using R<br>
+:bar_chart: I'm always learning new ways to analyze and visualize data using R and Python<br>
 
 <!--
 **shelby-vivosense/shelby-vivosense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
